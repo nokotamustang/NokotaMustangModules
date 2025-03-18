@@ -6,7 +6,7 @@ I've reuploaded some of these since I had long removed my previous GitHub accoun
 
 -   **lua_profiler**: Fast in-line profiling report for Lua code.
 
--   **lua_scriptum**: General in-line document generation in MarkDown for Lua code. As an example the readme content for this and the lua_profiler module was generated with this module.
+-   **lua_scriptum**: General in-line document generation in MarkDown for Lua code. As an example the readme for these Lua modules were generated using scriptum.
 
 -   **lua_serial**: Data serialization encode and decode for Lua tables.
 
