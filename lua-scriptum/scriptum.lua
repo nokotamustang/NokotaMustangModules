@@ -108,7 +108,6 @@ local config = {
   allowLoveFilesystem = true -- Use Love2D filesystem if it is available
 }
 
----@diagnostic disable-next-line: undefined-global
 local love = love
 local string, table, pairs = string, table, pairs
 
@@ -736,8 +735,7 @@ local function generateDoc(data)
   local hasREQ = false
   for _, v2 in pairs(data.requires) do
     if not hasREQ then
-      fileWriter:write('\n# Requires')
-      fileWriter:write('\n')
+      fileWriter:write('\n## Requires\n')
       hasREQ = true
     end
     local file = v2
@@ -764,8 +762,7 @@ local function generateDoc(data)
   for _, v3 in pairs(data.api) do
     if v3.name then
       if not hasAPI then
-        fileWriter:write('\n## API')
-        fileWriter:write('\n')
+        fileWriter:write('\n## API\n')
         hasAPI = true
       end
       count = count + 1
