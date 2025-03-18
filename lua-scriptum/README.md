@@ -122,7 +122,7 @@ new table using the matched key names:
                      }
     scriptum.configuration(overrides)
 
-# API
+## API
 
 **start** (rootPath\*, outputPath\*)
 

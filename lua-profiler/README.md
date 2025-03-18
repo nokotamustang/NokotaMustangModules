@@ -94,7 +94,7 @@ new table using the matched key names:
                      }
     profiler.configuration(overrides)
 
-# API
+## API
 
 **attachPrintFunction** (fn, verbose\*)
 

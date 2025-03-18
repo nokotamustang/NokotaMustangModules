@@ -46,7 +46,7 @@ Deserialize a string to a table directly:
 
     local tableOut = serial.deserialize(stringOut)
 
-# API
+## API
 
 **serialize** (data) : serialized
 
