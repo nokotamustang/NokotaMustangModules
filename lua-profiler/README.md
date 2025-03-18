@@ -25,12 +25,6 @@ Caveats: I didn't include an 'inspection' function that ProFi had, also the RAM
 output is gone. Please configure the profiler output in top of the code, particularly the
 location of the profiler source file (if not in the 'main' root source directory).
 
-**Authors**:
-Charles Mallah
-
-**Copyright**:
-(c) 2025 Charles Mallah
-
 **License**:
 MIT license (mit-license.org)
 

@@ -10,12 +10,6 @@ lua-scriptum
 Lua based document generator;
 The output files are in markdown syntax.
 
-**Authors**:
-Charles Mallah
-
-**Copyright**:
-(c) 2025 Charles Mallah
-
 **License**:
 MIT license (mit-license.org)
 

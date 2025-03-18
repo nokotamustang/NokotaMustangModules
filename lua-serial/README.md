@@ -9,12 +9,6 @@ lua-serial
 **Description**:
 Lua based table data serializer and deserializer.
 
-**Authors**:
-Charles Mallah
-
-**Copyright**:
-(c) 2025 Charles Mallah
-
 **License**:
 MIT license (mit-license.org)
 
