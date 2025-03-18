@@ -129,7 +129,3 @@ new table using the matched key names:
 > -   rW = 6 `Width of the relative percentage column`
 > -   cW = 5 `Width of the call count column`
 > -   reportSaved = '> Report saved to: ' `Text for the file output confirmation`
-
-# Project
-
--   [Back to root](README.md)

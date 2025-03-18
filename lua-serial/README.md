@@ -59,7 +59,3 @@ Deserialize a string to a table directly:
 > Deserialize a string and return the table  
 > &rarr; **serialized** (string) <_required_>  
 > &larr; **data** (table)
-
-# Project
-
--   [Back to root](../README.md)

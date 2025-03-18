@@ -138,7 +138,3 @@ new table using the matched key names:
 > -   codeSourceType = '.lua' `Looking for these source code files`
 > -   outputType = '.md' `Output file suffix`
 > -   allowLoveFilesystem = true `Use Love2D filesystem if it is available`
-
-# Project
-
--   [Back to root](README.md)
